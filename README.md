@@ -5,7 +5,7 @@ A voice assistant which can handle your everyday task and allows you to book ite
 Voice assistants are software agents that can interpret human speech and respond via synthesized voices. Our voicely is AI based bot which allows you to search about gigs to order a dominos pizza!
 
 ## Tech Used
-- Python
+- Python <img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 - Speech Recognition Library
 - API's (Twilio, Google Calender, Google Text- Speech, Google Maps, Flipkart Integration,Gmail, Wikipedia,You Tube,Selenium Packages,Weather)
 - Working with OS
