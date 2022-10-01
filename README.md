@@ -8,7 +8,7 @@ Voice assistants are software agents that can interpret human speech and respond
 - Python <img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 - Speech Recognition Library
 - API's (Twilio, Google Calender, Google Text- Speech, Google Maps, Flipkart Integration,Gmail, Wikipedia,You Tube,Selenium Packages,Weather)
-- Working with OS
+- Working with Operating System
 - VSCode, Github/Git IDE
 - Selenium
 
