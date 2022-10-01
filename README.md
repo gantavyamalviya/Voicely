@@ -27,3 +27,5 @@ Voicely can easily integration Twilio, Google Calender, Google Text- Speech, Goo
 Voice assistants are very effective way to organize your everyday tasks. Giving commands and completing the task is  like a miracle  for everyone.
 
 These Software devices are emerging day by day and in order to advance the features  VOICELY have come up with great change and fantastic approach. Ordering our favourite stuffs from single paltform is the key-feature of Voicely.
+
+#### Thank for visitng this repository
